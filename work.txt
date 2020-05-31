@@ -1,0 +1,5 @@
+1.pip install djangorestframework
+
+2.django-admin startproject KLA-Project
+D:\project>cd KLAProject
+D:\project\KLAProject>python manage.py startapp myApp
